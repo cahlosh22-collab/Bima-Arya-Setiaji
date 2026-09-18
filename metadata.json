@@ -1,0 +1,6 @@
+{
+  "name": "Ship.it",
+  "description": "Ship.it - Sistem manajemen operasional terpadu manifest muatan kapal dan data penumpang dengan integrasi real database, CRUD master/transaksi, laporan pelayaran resmi, dan dashboard analitik real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
